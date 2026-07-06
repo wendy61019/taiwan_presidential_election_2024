@@ -8,8 +8,8 @@
 2. 「得票率跟最終結果非常相近」的定義非常模糊。
 
 我們使⽤了 `pandas` 與 `sqlite3` 建立了資料庫，利⽤ `numpy` 進⾏概念驗證，並以 `gradio` 與 `streamlit` 做出成品。
- -  `gradio` 可以點選 [Hugging Face gradio的連結](https://huggingface.co/spaces/namidairo321/taiwan_presidential_election_2024)參考成品。
- - `streamlit`可以點選 [Hugging Face streamlit的連結](https://huggingface.co/spaces/namidairo321/taiwan_presidential_election_2024_streamlit)參考成品。
+ -  `gradio` 可以點選 [Hugging Face gradio的連結](https://huggingface.co/spaces/namidairo321/taiwan_presidential_election_2024) 參考成品。
+ - `streamlit`可以點選 [Hugging Face streamlit的連結](https://huggingface.co/spaces/namidairo321/taiwan_presidential_election_2024_streamlit) 參考成品。
 
 ## 如何重現
  - 安裝 [Miniconda](https://docs.anaconda.com/miniconda)
