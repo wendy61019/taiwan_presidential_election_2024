@@ -1,0 +1,10 @@
+name: taiwan_presidential_election_2024
+channels:
+ - conda-forge
+dependencies:
+ - python=3.12
+ - pandas=3.0
+ - openpyxl=3.1
+ - streamlit=1.58
+ - pip:
+   - gradio==6.19
