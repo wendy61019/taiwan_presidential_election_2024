@@ -2,7 +2,7 @@
 
 ## 簡介
 
-這個專案「找出章⿂⾥」透過中選會選舉及公投資料庫的 [2024 ー 第16任總統副總統選舉](https://db.cec.gov.tw/ElecTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=P0&legisId=00&themeId=4d83db17c1707e3defae5dc4d4e9c800&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000)的資料計算全台灣 7700 餘個村鄰⾥的得票率，並將其與全國得票率相比較，針對兩個報章媒體的不合理論點提出反思。
+這個專案「找出章⿂⾥」透過中選會選舉及公投資料庫的 [2024 ー 第16任總統副總統選舉](https://db.cec.gov.tw/ElecTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=P0&legisId=00&themeId=4d83db17c1707e3defae5dc4d4e9c800&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000) 的資料計算全台灣 7700 餘個村鄰⾥的得票率，並將其與全國得票率相比較，針對兩個報章媒體的不合理論點提出反思。
 
 1. ⼈⼝結構會變動、選舉有不同類型，將⼀個特定村鄰⾥訂為⻑年不變的章⿂⾥是明顯不合理的。
 2. 「得票率跟最終結果非常相近」的定義非常模糊。
