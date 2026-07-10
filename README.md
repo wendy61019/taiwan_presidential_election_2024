@@ -9,7 +9,7 @@
 
 我們使⽤了 `pandas` 與 `sqlite3` 建立了資料庫，利⽤ `numpy` 進⾏概念驗證，並以 `gradio` 與 `streamlit` 做出成品。
  -  `gradio` 可以點選 [Hugging Face Spaces gradio的連結](https://huggingface.co/spaces/namidairo321/taiwan_presidential_election_2024) 參考成品。
- - `streamlit`可以點選 [Hugging Face Spaces streamlit的連結](https://huggingface.co/spaces/namidairo321/taiwan_presidential_election_2024_streamlit) 參考成品。
+ - `streamlit`可以點選 [Streamlit Community Cloud的連結](https://taiwanpresidentialelection2024st.streamlit.app/) 參考成品。
 
 ## 如何重現
  - 安裝 [Miniconda](https://docs.anaconda.com/miniconda)
